@@ -1,10 +1,15 @@
 {
- "key": "7ac9d577",
- "stars": 0,
- "contributions": 141,
- "repos": 1,
+ "key": "b8b04460",
+ "stars": 1,
+ "contributions": 146,
+ "repos": 2,
  "followers": 0,
- "languages": [],
+ "languages": [
+  [
+   "Python",
+   48629
+  ]
+ ],
  "days": [
   [
    {
@@ -82,7 +87,7 @@
   ],
   [
    {
-    "c": 3,
+    "c": 8,
     "day": 8,
     "today": true
    },
@@ -98,15 +103,34 @@
   "current": 1,
   "longest": 5
  },
- "pins": [],
+ "pins": [
+  {
+   "name": "odalyys",
+   "url": "https://github.com/odalyys/odalyys",
+   "text": "My GitHub profile",
+   "fork": false,
+   "stars": 1,
+   "language": null,
+   "topics": []
+  }
+ ],
  "all": [
   {
    "name": "odalyys",
    "url": "https://github.com/odalyys/odalyys",
    "text": "My GitHub profile",
    "fork": false,
-   "stars": 0,
+   "stars": 1,
    "language": null,
+   "topics": []
+  },
+  {
+   "name": "Voicemeeter-Background",
+   "url": "https://github.com/odalyys/Voicemeeter-Background",
+   "text": "An overlay image or slideshow that tracks the Voicemeeter window (position, size, foreground, DPI). Does not require code injection or VMChroma. Windows.",
+   "fork": false,
+   "stars": 0,
+   "language": "Python",
    "topics": []
   }
  ]
